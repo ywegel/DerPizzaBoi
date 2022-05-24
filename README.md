@@ -5,3 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerPizzaBoi&layout=compact&theme=dracula)](https://github.com/DerPizzaBoi)
 
 ##### I know these stats are not special, but i find them cute
+
+## Contact
+
+Discord: DerPizzaBoi#8287
